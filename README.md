@@ -1,4 +1,4 @@
-## ORB-SLAM2 注释版学习: https://git.oschina.net/paopaoslam/ORB-SLAM2，计划结合Kinfu进行实时三维重建
+## ORB-SLAM2 注释版学习: [泡泡机器人ORB-SLAM2注释版](https://git.oschina.net/paopaoslam/ORB-SLAM2)，计划结合Kinfu进行实时三维重建
 
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
